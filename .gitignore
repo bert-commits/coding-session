@@ -37,3 +37,6 @@ frontend/next-env.d.ts
 # Misc
 *.pem
 .vercel
+
+# Claude settings (may contain secrets)
+.claude/settings.local.json
